@@ -43,6 +43,3 @@ If you want to spin this up on your own machine:
    * `npm install`
    * `npm run dev`
 5. Open `http://localhost:3000` and step right up!
-
----
-*Built with grit, a lot of coffee, and a passion for Web3.*
