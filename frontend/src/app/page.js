@@ -24,7 +24,7 @@ export default function Home() {
   useEffect(() => {
     const fetchServerStatus = async () => {
       try {
-        const response = await fetch("http://localhost:5000/api/status");
+        const response = await fetch("https://lottery-smart-contract-node-server.onrender.com");
         const data = await response.json();
         setTimeLeft(data.timeLeft);
       } catch (error) { console.error("❌ Could not connect:", error); }
