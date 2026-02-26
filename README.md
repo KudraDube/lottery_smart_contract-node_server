@@ -1,6 +1,6 @@
 # 🎡 Woza Woza: Your Web3 Running on Web2
 
-Welcome to **Woza Woza**! This is a fully automated, decentralized sequential lottery built on the Ethereum Sepolia Testnet, wrapped in a vibrant, South African carnival UI.
+Welcome to **Woza Woza**! This is a fully automated, decentralized sequential lottery built on the Ethereum Sepolia Testnet.
 
 If you've ever wondered how to bridge the gap between traditional backend servers (Node.js) and decentralized smart contracts (Solidity), you're in the right place.
 
